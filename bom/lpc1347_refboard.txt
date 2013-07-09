@@ -1,0 +1,48 @@
+Part  Value        Device                     Package         Description                             
+
+R10   33           RESISTOR0603               0603            Resistors                               
+R11   33           RESISTOR0603               0603            Resistors                               
+R9    150          RESISTOR0603               0603            Resistors                               
+R13   150          RESISTOR0603               0603            Resistors                               
+R6    1K           RESISTOR0603               0603            Resistors                               
+R8    1K           RESISTOR0603               0603            Resistors                               
+R19   1.5K         RESISTOR0603               0603            Resistors                               
+R12   2K           RESISTOR0603               0603            Resistors                               
+R2    10K          RESISTOR0603               0603            Resistors                               
+R3    10K          RESISTOR0603               0603            Resistors                               
+R4    10K          RESISTOR0603               0603            Resistors                               
+R5    10K          RESISTOR0603               0603            Resistors                               
+R14   10K          RESISTOR0603               0603            Resistors                               
+R15   10K          RESISTOR0603               0603            Resistors                               
+R1    20K          RESISTOR0603               0603            Resistors                               
+R7    100K         RESISTOR0603               0603            Resistors                               
+
+LED1  POWER        LED0805                    CHIPLED_0805    LED                                     
+LED2  2mA          LED0805                    CHIPLED_0805    LED                                     
+LED3  USB          LED0805                    CHIPLED_0805    LED                                     
+D2    SS12         DIODESMA                   SMADIODE        Diode                                   
+D1    BAT54C       BAT54C                     SOT23-R         BAT54C Schottky Diodes (Common Cathode) 
+CN1   USBMINIB     USBMINIB                   USB-MINIB       USB Connectors                          
+BTN1  Reset        SWITCH_TACT_SMT            EVQ-Q2          SMT Tact Switches                       
+BTN2  ISP          SWITCH_TACT_SMT            EVQ-Q2          SMT Tact Switches                       
+JTAG1 JTAG         JTAG-CORTEXM3              2X05_1.27MM_SMT Serial Wire (SW-DP) Connector           
+Q1    MMBT2907A    TRANSISTOR_PNPSOT23-REFLOW SOT23-R         PNP Transistor                          
+U2    LM1117(3.3)  LM1117SOT223-REFLOW        SOT223-R        LM1117 Voltage Regulator                
+U3    MCP130T      MCP130TREFLOW              SOT23-R         MCP130T Voltage Supervisor (Active Low) 
+U4    LPC1347FBD48 LPC1347_QFP48              LQFP48          LPC1347 - ARM Cortex M3 72MHz MCU       
+Y2    12MHz        CRYSTALTHIN                CRYSTAL_3.2X2.5 Crystals                            
+
+C2    10µF         CAP_TANTALUMA/3216_REFLOW  EIA3216-18/A-R  Tantalum Capacitors                     
+C3    10µF         CAP_TANTALUMA/3216_REFLOW  EIA3216-18/A-R  Tantalum Capacitors                     
+C4    10µF         CAP_TANTALUMA/3216_REFLOW  EIA3216-18/A-R  Tantalum Capacitors                  
+C13   10µF         CAP_TANTALUMA/3216_REFLOW  EIA3216-18/A-R  Tantalum Capacitors                  
+   
+C7    10µF         CAP_CERAMIC0805            0805            Ceramic Capacitors                      
+C8    10µF         CAP_CERAMIC0805            0805            Ceramic Capacitors                      
+
+C11   0.1µF        CAP_CERAMIC0603            0603            Ceramic Capacitors                      
+C12   0.1µF        CAP_CERAMIC0603            0603            Ceramic Capacitors                      
+C5    0.1µF        CAP_CERAMIC0603            0603            Ceramic Capacitors                      
+
+C1    16pF         CAP_CERAMIC0603            0603            Ceramic Capacitors                      
+C14   16pF         CAP_CERAMIC0603            0603            Ceramic Capacitors                  

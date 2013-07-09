@@ -1,0 +1,11 @@
+v1.1
+====
+	< ike> xtal have to be as close as posible to MCU
+	< ike> and caps have to be at the other side
+	< ike> not between xtal and board
+	< ike> when you place IC your first job is to put xtal and decupling caps near it
+	< ike> you have C7 and C8 that should be closer, have wider traces and you should put 0.1uF even closer to IC
+	< ike> msp430 LP is wrong too
+	< ike> and if you can put lpc1347 closer to USB so you would run shorter USB bus
+	< ike> the same is true for U2 too 1117 LDO
+	< ike> other than that is looking good
